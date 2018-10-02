@@ -21,3 +21,5 @@ The source code for participants vehicles is organized by University.
 ## CALVIN (Poland)
 
 ## Warsaw University of Technology (WUT)
+
+## Kookmin Unvierstity (KMU)

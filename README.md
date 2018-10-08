@@ -8,7 +8,7 @@ The source code for participants vehicles is organized by University.
 
 ## Czech Technical University (CTU)
 
-## Seoul National University (SNU)
+## Seoul National University of Science & Technology (SeoulTech)
 
 ## University of Connecticut (Connecticut)
 
